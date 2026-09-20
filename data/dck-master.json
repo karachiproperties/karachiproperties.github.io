@@ -92,7 +92,7 @@
       "area_type": "Sub-sector",
       "use_type": "Residential",
       "plot_size": 125,
-      "status": "Possession",
+      "status": "Non Possession",
       "seo_url": "/dha-city-karachi/sector-3c/",
       "parent_url": "/dha-city-karachi/sector-3/"
     },
@@ -104,7 +104,7 @@
       "area_type": "Sub-sector",
       "use_type": "Residential",
       "plot_size": 200,
-      "status": "Possession",
+      "status": "Non Possession",
       "seo_url": "/dha-city-karachi/sector-3c/",
       "parent_url": "/dha-city-karachi/sector-3/"
     },
@@ -116,7 +116,7 @@
       "area_type": "Sub-sector",
       "use_type": "Residential",
       "plot_size": 125,
-      "status": "Possession",
+      "status": "Non Possession",
       "seo_url": "/dha-city-karachi/sector-3d/",
       "parent_url": "/dha-city-karachi/sector-3/"
     },
@@ -128,7 +128,7 @@
       "area_type": "Sub-sector",
       "use_type": "Residential",
       "plot_size": 125,
-      "status": "Possession",
+      "status": "Non Possession",
       "seo_url": "/dha-city-karachi/sector-3e/",
       "parent_url": "/dha-city-karachi/sector-3/"
     },

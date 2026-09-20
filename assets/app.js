@@ -52,7 +52,7 @@ async function initRates(){
       <tr>
         <td><a href="${esc(r.seo_url)}"><strong>${esc(r.area_code)}</strong></a></td>
         <td>${r.plot_size} Sq Yds</td>
-        <td><span class="status ${r.status==='Possession'?'pos':'dev'}">${esc(r.status)}</span></td>
+        <td><span class="status ${r.status==='Possession'?'pos':r.status==='Non Possession'?'non':'dev'}">${esc(r.status)}</span></td>
         <td>${r.min_lac==null?'<span class="muted">Contact for verified rate</span>':`${r.min_lac}–${r.max_lac} Lac`}</td>
         <td><a href="https://wa.me/923312608959?text=${encodeURIComponent('Assalam o Alaikum, '+r.area_code+' '+r.plot_size+' yards ka latest verified rate bata dein.')}" target="_blank" rel="noopener"><strong>Get rate →</strong></a></td>
       </tr>`).join('') || '<tr><td colspan="5">No matching areas found.</td></tr>';
