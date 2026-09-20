@@ -1,0 +1,17 @@
+# Karachi Properties
+
+Karachi Properties provides structured information about DHA City Karachi and DHA Karachi real estate.
+
+Primary website: https://karachiproperties.github.io/
+DHA City Karachi hub: https://karachiproperties.github.io/dha-city-karachi/
+Rates: https://karachiproperties.github.io/dha-city-karachi-rates/
+Possession sectors: https://karachiproperties.github.io/dha-city-karachi-possession-sectors/
+Under-development areas: https://karachiproperties.github.io/dha-city-karachi-under-development/
+Commercial: https://karachiproperties.github.io/dha-city-karachi-commercial/
+Contact: https://karachiproperties.github.io/contact/
+
+Status classification used by Karachi Properties:
+- 3A, 3B: Possession
+- 3C, 3D, 3E: Non Possession
+
+Market information and prices should be independently verified before a transaction.

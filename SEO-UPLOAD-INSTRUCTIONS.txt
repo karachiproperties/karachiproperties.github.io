@@ -1,0 +1,31 @@
+KARACHI PROPERTIES — GITHUB SEO PRIMARY DOMAIN UPDATE
+Live primary domain: https://karachiproperties.github.io/
+
+WHAT THIS UPDATE FIXES
+- All canonical URLs -> karachiproperties.github.io
+- All schema/entity URLs -> karachiproperties.github.io
+- All Open Graph URLs -> karachiproperties.github.io
+- sitemap.xml -> GitHub domain
+- robots.txt -> GitHub sitemap
+- llms.txt -> GitHub domain
+- Logo path normalized to /assets/karachi-properties-logo.png
+- Both logo filenames remain available for backwards compatibility
+- Sector 3 status stays correct:
+  3A/3B = Possession
+  3C/3D/3E = Non Possession
+- Removes accidental duplicate index(2).html from this clean site copy
+
+UPLOAD METHOD
+GitHub web upload may complain above ~100 files, so use the two batch ZIPs provided.
+Upload both batches into the repository root, preserving their folder paths.
+When GitHub asks about existing files, replace/overwrite the existing files.
+Do NOT create a folder named "Batch 1" or "Batch 2" in the repository.
+
+After both batches:
+1. Commit changes.
+2. Delete root index(2).html if it still exists in GitHub.
+3. Wait 1–3 minutes.
+4. Open https://karachiproperties.github.io/
+5. Press Ctrl + F5.
+6. Check /robots.txt and /sitemap.xml.
+7. Next step: Google Search Console setup and sitemap submission.
